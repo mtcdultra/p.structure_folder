@@ -1,0 +1,13 @@
+arquivo01.txt
+arquivo2.txt
+arquivo03.txt
+pasta_01#arquivo22.txt
+pasta_01#arquivo30.txt
+arquivo04.txt
+pasta_02#arquivo00001.txt
+pasta_03#arquivo5555.txt
+pasta_03#arquivo00.txt
+pasta_03#arquivo54.txt
+arquivo100.txt
+arquivo999.txt
+figura.jpg
