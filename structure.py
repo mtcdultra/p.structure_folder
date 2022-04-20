@@ -14,7 +14,6 @@ def creating_folder_structure(file_name):
 
         if i.find(">") > 0:
 
-
             if not current_path.exists():
 
                 current_path.mkdir()
@@ -26,4 +25,4 @@ def creating_folder_structure(file_name):
     return ("Structure Created")
 
 
-creating_folder_structure("structure.txt")
+creating_folder_structure("structure_flask.txt")
